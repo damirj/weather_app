@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="wind">Wind:</string>
+    <string name="relative_humidity">Relative humidity:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="get_weather">Get weather</string>
+    <string name="type_in_the_city_name">Type in the city name</string>
+</resources>
